@@ -7,15 +7,10 @@
 
 ## Лабораторная 2
 
-Разработка простого веб-приложения (html,css,js)
+Разработка простого веб-приложения
 
 ## Лабораторная 3
 
 Работа с Сisco Packet Tracer.
-
-Материалы о выполнении лабораторной работы:
-* Проект: [Project](https://github.com/Vladosicc/inet-techn/blob/main/CiscoLab/Proj.pka)
-* Информация о конфигурации устройств: [Device Configuration Information](https://github.com/Vladosicc/inet-techn/blob/main/CiscoLab/conf.pdf)
-* Сценарий для настройки устройств: [Command script in cisco](https://github.com/Vladosicc/inet-techn/blob/main/CiscoLab/setup.txt)
 
 ## Экзаменационный билет №19
