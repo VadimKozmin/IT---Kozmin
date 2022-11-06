@@ -1,5 +1,5 @@
 # Лабораторные работы по дисциплине "Интернет-технологии"
-# Студент группы ИДМ-22-02 Белов В.А.
+# Студент группы ИДМ-22-02 Козмин В.С.
 
 ## Лабораторная 1
 
@@ -14,8 +14,6 @@
 
 Разработка простого веб-приложения (html,css,js)
 
-Приложение представляет собой [страницу](https://vladosicc.github.io/inet-techn/pages/LotkaVolterraSolve.html) с решением системы Лотки-Вольтерры численным методом РК4.
-
 ## Лабораторная 3
 
 Работа с Сisco Packet Tracer.
@@ -25,5 +23,4 @@
 * Информация о конфигурации устройств: [Device Configuration Information](https://github.com/Vladosicc/inet-techn/blob/main/CiscoLab/conf.pdf)
 * Сценарий для настройки устройств: [Command script in cisco](https://github.com/Vladosicc/inet-techn/blob/main/CiscoLab/setup.txt)
 
-## Экзаменационный билет №15
-Ответ на экзаменационный [билет 15](https://github.com/stankin/inet-2022/wiki/exam15)
+## Экзаменационный билет №19
