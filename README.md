@@ -52,3 +52,5 @@
 
 ## Экзаменационный билет №19
 Ответ на экзаменационный [билет 19](https://github.com/stankin/inet-2022/wiki/exam19)
+
+[diff](https://github.com/stankin/inet-2022/wiki/exam19/_compare/5a45dae1fcb798efd80df91caaa23be1ffcb7335...ae260b5d8b046da0492f2df193562a6a506ed7e4)
