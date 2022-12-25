@@ -13,6 +13,7 @@
 ## Лабораторная 2
 
 [Разработка простого веб-приложения.](https://github.com/VadimKozmin/django-project)
+
 [Landing Page.](VadimKozmin.github.io)
 
 В рамках лабораторной работы будет разработана веб-приложение ресторана "Башня".
